@@ -4,4 +4,4 @@ Learn framework Tailwind CSS. You can see my result here. This is simple landing
 
 ![preview](preview.png)
 
-You can try yourself [here](https://bodamat.github.io/Tailwind-css-tutorial/)
+You can try yourself [here](https://bodamat.github.io/tailwind-css-tutorial/)
